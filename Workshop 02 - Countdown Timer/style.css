@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(45deg, #FC466B 0%, #3F5EFB 100%);
+
+    color: #ffffff;
+
+    height: 98vh;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+.countdown {
+    display: inline-block;
+    font-size: 1.7em;
+    padding: 1em;
+}
+
+.countdown span {
+    display: block;
+    font-size: 5em;
+}

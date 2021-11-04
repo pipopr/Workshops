@@ -4,7 +4,7 @@
     function onDragStart() {
       draggingElem = this;
     }
-    
+  
     function onDrop() {
       this.append(draggingElem);
       draggingElem = null;

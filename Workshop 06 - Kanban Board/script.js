@@ -1,4 +1,4 @@
-(() => { 
+(() => {
     let draggingElem;
   
     function onDragStart() {

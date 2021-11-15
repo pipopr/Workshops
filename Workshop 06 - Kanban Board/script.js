@@ -10,7 +10,7 @@
       draggingElem = null;
     }
   
-    function onDragOver(event) {
+    function onDragOver(event) { 
       event.preventDefault();
     }
     

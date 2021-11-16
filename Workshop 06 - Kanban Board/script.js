@@ -15,7 +15,7 @@
     }
     
     function onDragEnter(event) {
-      event.preventDefault();
+      event.preventDefault(); 
     }
     
     function run() {
